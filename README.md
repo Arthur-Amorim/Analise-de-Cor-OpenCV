@@ -5,4 +5,3 @@ O código utiliza uma faixa de cores bem definida para enquadrar a gama de cores
 Tudo o que não for definido dentro dessa faixa de cores é descartado. 
 Por fim, considerando apenas os pixels dentro das faixas utilizadas, é realizada uma contagem percentual de cada cor através da quantidade de pixels. 
 
-Preciso e vou comentar melhor o código.
